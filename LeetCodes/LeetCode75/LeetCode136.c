@@ -15,7 +15,6 @@ int singleNumber(int* nums, int numsSize) {
 int main(){
     int array[] = {2,2,7, 2, 3};
     int size = 3;
-    int unique = singleNumber(array, size);
-   printf("%d", unique);
+    printf("%d", singleNumber(array, size));
 }
 
