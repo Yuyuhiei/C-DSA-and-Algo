@@ -17,6 +17,7 @@ int main(){
         b = carry;
     }
     cout << "Sum: " << a;
+    return 0;
 }
 
 
