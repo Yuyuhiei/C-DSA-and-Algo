@@ -3,7 +3,7 @@
 
 int main(){
 int x;
-    int i, val1, val2, count=0;
+    int i, val1, count=0;
     printf("Please enter a number (positive only): ");
     scanf_s("%d", &x);
 
